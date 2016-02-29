@@ -1,0 +1,13 @@
+{
+  "name": "myFirstApp",
+  "version": "1.0.0",
+  "description": "Node.js on Docker",
+  "author": "Steph Locke <stephanie.g.locke@gmail.com>",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mockaroo": "^0.1.7"
+  }
+}
